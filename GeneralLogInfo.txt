@@ -1,5 +1,9 @@
 ﻿***** 普通日志 *****
 
+###Update Time: 2020-10-21 14:23###
+Submit Version: 2
+> 添加X10 USB烧录工具操作文档
+
 ###Update Time: 2020-10-21 14:10###
 Submit Version: 1
 > 添加X10 USB烧录工具
